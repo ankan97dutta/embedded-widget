@@ -1,2 +1,2 @@
-# embedded-widget
-A sub-reddit widget that can be embedded to other web sites.
+# mCard
+A widget to show your online presence
